@@ -1,6 +1,10 @@
 #!/usr/bin/python3.8
 def main(msg):
-    // print a message - git test
+    # no need comments
     print(msg)
-//edit in pi2
+
+
+def secondary():
+    print('New Function')
+
 main('hello people')
